@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Insta Downloader</string>
+    <string name="play_more_apps">https://play.google.com/store/search?q=vishal%20m%20parmar</string>
+    <string name="admob_unit_id">ca-app-pub-8356404931736973/1535479592</string>
+    <string name="admob_interstitial">ca-app-pub-8356404931736973/3012212799</string>
+    <string name="startapp_app_id">207066115</string>
+    <string name="startapp_dev_id">101068545</string>
+</resources>
